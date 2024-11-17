@@ -9,6 +9,6 @@
     {"tId": 2, "title": "Task J.24.022-01", "opsIds": [ 1, 2, 3 ], "cOp": 0}, 
     {"tId": 3, "title": "Task J.24.022-01", "opsIds": [ 1, 2, 3 ], "cOp": 2}, 
     {"tId": 4, "title": "Task J.24.022-01", "opsIds": [ 1, 3 ], "cOp": 0}, 
-    {"tId": 5, "title": "Task J.24.022-01", "opsIds": [ 2, 3 ], "cOp": 1}, 
+    {"tId": 5, "title": "Task J.24.022-01", "opsIds": [ 2, 3 ], "cOp": 1} 
   ]
 }
