@@ -3,7 +3,7 @@
     {"oId": 1, "title": "Operation 1"},
     {"oId": 2, "title": "Operation 2"},
     {"oId": 3, "title": "Operation 3"}
-  ]},
+  ],
   "tasks": [
     {"tId": 1, "title": "Task J.24.022-01", "opsIds": [ 1, 2 ], "cOp": 1}, 
     {"tId": 2, "title": "Task J.24.022-01", "opsIds": [ 1, 2, 3 ], "cOp": 0}, 
